@@ -1,0 +1,68 @@
+.homepage-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #87CEEB; 
+    font-family: 'Comic Sans MS', sans-serif; 
+  }
+  
+  .header h1 {
+    color: #FFD700; 
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000; 
+  }
+  
+  .header p {
+    font-size: 1.5rem;
+    color: #2E8B57; 
+    margin-bottom: 30px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .login-button, .signup-button {
+    padding: 15px 25px;
+    font-size: 1.4rem;
+    margin: 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .login-button {
+    background-color: #FFA07A; 
+    color: white;
+  }
+  
+  .signup-button {
+    background-color: #FF4500; 
+    color: white;
+  }
+  
+  .login-button:hover, .signup-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .menu-preview h2 {
+    font-size: 2.5rem;
+    margin-top: 50px;
+    color: #48D1CC; 
+    text-shadow: 2px 2px 3px #000; 
+  }
+  
+  .menu-preview p {
+    font-size: 1.3rem;
+    color: #FFFACD; 
+    margin-bottom: 40px;
+  }
+  
+  body {
+    background-image: url('https://example.com/bikini-bottom-bg.png'); 
+    background-size: cover;
+    background-position: center;
+  }
+  
